@@ -44,9 +44,9 @@ bash
 
 ## ▶️ OUTPUT: 
 
-📊 [output 1]
-📊 [output 2]
-📊 [output 3]
+📊 [output 1](https://github.com/anay-2025/os_02_fastMultiplyMatrix/blob/main/outputs/manual_output1.png)
+📊 [output 2](https://github.com/anay-2025/os_02_fastMultiplyMatrix/blob/main/outputs/manual_output2.png)
+📊 [output 3](https://github.com/anay-2025/os_02_fastMultiplyMatrix/blob/main/outputs/manual_output3.png)
 
 
 ## 🧠 Implementation Details
