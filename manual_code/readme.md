@@ -42,8 +42,11 @@ bash
 
 ---
 
-## ▶️ OUTPUT:
+## ▶️ OUTPUT: 
 
+📊 [output 1]
+📊 [output 2]
+📊 [output 3]
 
 
 ## 🧠 Implementation Details
