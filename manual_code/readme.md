@@ -42,4 +42,70 @@ bash
 
 ---
 
-## ▶️ Execution
+## ▶️ OUTPUT:
+
+
+
+## 🧠 Implementation Details
+* Time Complexity: *O(n³)*
+* Matrix rows are evenly divided among children.
+* Each child computes a subset of rows.
+Parallelization Strategy: *Row-wise partitioning*
+
+---
+
+## 📊 Performance Testing
+
+To test different numbers of processes, modify number of children.
+Check available CPU cores:
+
+bash
+nproc
+
+
+### Expected Behavior
+
+| Processes   | Expected Result                   |
+| ----------- | --------------------------------- |
+| 1           | Same as sequential                |
+| < CPU cores | Moderate speedup                  |
+| = CPU cores | Best performance                  |
+| > CPU cores | Overhead due to context switching |
+
+---
+
+## ⚠️ Limitations
+
+* Uses naive O(n³) algorithm
+* clock() measures CPU time, not true wall-clock time
+* Large n values require high RAM
+* Process creation overhead affects small matrix sizes
+
+---
+
+## 📈 Conclusion
+
+This project demonstrates:
+
+* Matrix multiplication is computationally intensive (O(n³)).
+* Process-based parallelism significantly reduces execution time for large matrices.
+* Optimal performance is achieved when the number of processes matches available CPU cores.
+* Excessive processes may degrade performance due to context switching overhead.
+
+The experiment highlights practical performance scaling using UNIX process parallelism.
+
+---
+
+## 👨‍💻 Author
+
+1.bharath reddy.
+2.aman das.
+3.samam roy.
+4. saumya kumari.
+5.rinika banajree.
+6.pedelna bhutia.
+7.sruthi vaddadhi.
+8.anay bhattacharya(group leader).
+9.dhrub sah.
+
+
