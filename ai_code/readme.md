@@ -98,6 +98,6 @@ gcc -O3 matrix_mult.c -o matrix_mult
 ```
 ## 📊 Results 
 
-📊 [result  1]()
-📊 [result 2]()
-📊 [result 3]()
+📊 [result  1](https://github.com/anay-2025/os_02_fastMultiplyMatrix/blob/main/outputs/ai_output1.png)
+📊 [result 2](https://github.com/anay-2025/os_02_fastMultiplyMatrix/blob/main/outputs/ai_output2.png)
+📊 [result 3](https://github.com/anay-2025/os_02_fastMultiplyMatrix/blob/main/outputs/ai_output3.png)
