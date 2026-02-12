@@ -98,14 +98,22 @@ The experiment highlights practical performance scaling using UNIX process paral
 
 ## 👨‍💻 Author
 
-1.bharath reddy.
-2.aman das.
-3.samam roy.
-4. saumya kumari.
-5.rinika banajree.
-6.pedelna bhutia.
-7.sruthi vaddadhi.
-8.anay bhattacharya(group leader).
-9.dhrub sah.
+1.Bharath Reddy.
+
+2.Aman Das.
+
+3.Samam Roy.
+
+4. Saumya Kumari.
+   
+5.Rinika Banajree.
+
+6.Pedelna Bhutia.
+
+7.Sruthi Vaddadhi.
+
+8.Anay Bhattacharya(group leader).
+
+9.Dhrub Sah.
 
 
